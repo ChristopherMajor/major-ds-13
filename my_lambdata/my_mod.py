@@ -11,6 +11,7 @@ def enlarge(n):
 ## print(result)
 
 if __name__ == "__main__":
+    
     x=int(input("Choose a number."))
     result = enlarge(x)
     print(result)
